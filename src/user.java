@@ -1,6 +1,8 @@
 public class user {
     int id;
     int password;
+    int sex;
+    int high;
 
     public int getId() {
         return id;
