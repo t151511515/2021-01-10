@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ba50c18e-84c0-46df-aabc-4d1d0c234afc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2021-01-10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/teachar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/user.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="F:\qin\2021-01-10\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1mr943XkwHBWUvUPooEbS2r9XTH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ba50c18e-84c0-46df-aabc-4d1d0c234afc" name="Default Changelist" comment="" />
+      <created>1610240649180</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610240649180</updated>
+      <workItem from="1610240654790" duration="697000" />
+      <workItem from="1610244772147" duration="743000" />
+      <workItem from="1610261491552" duration="8194000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="392" y="88" key="#Project_Structure" timestamp="1610247289451">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="392" y="88" key="#Project_Structure/0.0.1600.860@0.0.1600.860" timestamp="1610247289451" />
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1610266918579">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="605" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1600.860@0.0.1600.860" timestamp="1610266918579" />
+    <state x="675" y="358" width="273" height="220" key="Github.ShareDialog" timestamp="1610244802516">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="675" y="358" width="273" height="220" key="Github.ShareDialog/0.0.1600.860@0.0.1600.860" timestamp="1610244802516" />
+    <state x="311" y="109" key="SettingsEditor" timestamp="1610279988112">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="311" y="109" key="SettingsEditor/0.0.1600.860@0.0.1600.860" timestamp="1610279988112" />
+    <state x="480" y="253" key="com.intellij.ide.util.TipDialog" timestamp="1610261493843">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="480" y="253" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1610261493843" />
+    <state x="174" y="39" key="new project wizard" timestamp="1610240733942">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="174" y="39" key="new project wizard/0.0.1600.860@0.0.1600.860" timestamp="1610240733942" />
+  </component>
+</project>
